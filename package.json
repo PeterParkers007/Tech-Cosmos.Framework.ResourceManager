@@ -1,8 +1,8 @@
-{
+ï»¿{
   "name": "com.resourcemanager.core",
   "version": "1.0.0",
   "displayName": "Resource Manager",
-  "description": "Í¨ÓÃÒì²½×ÊÔ´¹ÜÀíÆ÷£¬Ö§³Ö Resources ºÍ Addressables ¼ÓÔØ·½Ê½£¬ÓëÏîÄ¿ÍêÈ«½âñî£¬µ¼Èë¼´ÓÃ",
+  "description": "é€šç”¨å¼‚æ­¥èµ„æºç®¡ç†å™¨ï¼Œæ”¯æŒ Resources å’Œ Addressables åŠ è½½æ–¹å¼ï¼Œä¸é¡¹ç›®å®Œå…¨è§£è€¦ï¼Œå¯¼å…¥å³ç”¨",
   "unity": "2022.3",
   "keywords": [
     "resource",
