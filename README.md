@@ -539,7 +539,7 @@ ResourceManager.Initialize(new AddressablesLoader());
 
 ## 编辑器调试窗口
 
-菜单：`Window → Resource Manager → Debug Window`
+菜单：`Tech-Cosmos → Resource Manager → Debug Window`
 
 功能：
 
