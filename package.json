@@ -1,0 +1,22 @@
+{
+  "name": "com.resourcemanager.core",
+  "version": "1.0.0",
+  "displayName": "Resource Manager",
+  "description": "通用异步资源管理器，支持 Resources 和 Addressables 加载方式，与项目完全解耦，导入即用",
+  "unity": "2022.3",
+  "keywords": [
+    "resource",
+    "asset",
+    "async",
+    "loader",
+    "addressables"
+  ],
+  "author": {
+    "name": "Tech-Cosmos",
+    "email": "3427463164@qq.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.addressables": "1.21.0"
+  }
+}
