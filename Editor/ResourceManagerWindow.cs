@@ -14,7 +14,7 @@ namespace TechCosmos.ResourceManager.Editor
         private Vector2 _scrollPosition;
         private bool _autoRefresh = true;
 
-        [MenuItem("Window/Resource Manager/Debug Window")]
+        [MenuItem("Tech-Cosmos/Resource Manager/Debug Window")]
         public static void ShowWindow()
         {
             GetWindow<ResourceManagerWindow>("资源管理器调试");
